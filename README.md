@@ -1,6 +1,6 @@
 # Data Visualization Practice
 
-This repository is dedicated to showcasing my skills in data visualization using __Plotly, Matplotlib and Seaborn__. I have created various plots and graphs to help understand and visualize a salarie dataset effectively.
+This repository is dedicated to showcasing my skills in data visualization using __Plotly, Matplotlib and Seaborn__. I have created various plots and graphs to help understand and visualize a salarie dataset effectively in this [notebook](https://github.com/MarBenitez/visualization-practice/blob/main/plotly_practice.ipynb).
 
 
 ## Introduction
